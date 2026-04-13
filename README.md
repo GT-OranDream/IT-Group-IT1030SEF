@@ -46,4 +46,14 @@ Local Data Persistence
 Data storage based on browser LocalStorage
 Data remains intact after page refresh or browser closure
 
+Team member:
+CHEN Hao Zhe 14179817
+CHENG Siu Fung 14074189
+Cheng Xiang Wei 14175935
+Wei Song En 14180109
+HE Yu Ze 14184840
+Dong Ji Ming 14088169
+Zhou Jing Song 14106315
+
+
 
